@@ -47,6 +47,12 @@ const movies = [
     body: "An office worker forms an underground fight club.",
     rating: 9
     },
+    {
+    id: 8,
+    title: "The Lord of the Rings",
+    body: "A hobbit begins a journey to destroy the One Ring.",
+    rating: 10
+    },
 
 ];
 
