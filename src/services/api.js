@@ -53,6 +53,12 @@ const movies = [
     body: "A hobbit begins a journey to destroy the One Ring.",
     rating: 10
     },
+    {
+    id: 9,
+    title: "The Shawshank Redemption",
+    body: "Two imprisoned men bond over several years.",
+    rating: 10
+    }
 
 ];
 
