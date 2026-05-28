@@ -40,7 +40,14 @@ const movies = [
         title: "The Matrix",
         body: "A hacker discovers the reality is a simulation.",
         rating: 10
-    }
+    },
+    {
+    id: 7,
+    title: "Fight Club",
+    body: "An office worker forms an underground fight club.",
+    rating: 9
+    },
+
 ];
 
 export async function fetchMovies() {
